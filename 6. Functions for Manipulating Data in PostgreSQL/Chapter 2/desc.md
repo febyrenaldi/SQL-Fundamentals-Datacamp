@@ -1,0 +1,1 @@
+Explore how to manipulate and query date and time objects including how to use the current timestamp in your queries, extract subfields from existing date and time fields and what to expect when you perform date and time arithmetic.
