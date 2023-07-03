@@ -10,5 +10,4 @@ Through hands-on exercises, you’ll discover SQL basics, such as how to structu
 
 As you progress, you’ll use these foundations to quickly summarize and join tables and use window functions and built-in PostgreSQL functions to analyze your data.
 
-
 By the time you finish this track, you’ll have a firm understanding of the SQL essentials and have the confidence to apply them to your own data sets. You’ll be able to start working on a variety of SQL projects and develop your data science portfolio.
