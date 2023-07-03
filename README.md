@@ -4,6 +4,7 @@ Gain the fundamental SQL skills you need to interact with and query your data.
 
 SQL is a powerful language used by data-driven businesses, large and small, to explore and manipulate their data to extract meaningful insights. 
 
+
 In this track, you'll learn the SQL fundamentals you need to level up your data skills.
 
 Through hands-on exercises, you’ll discover SQL basics, such as how to structure and query relational databases. 
