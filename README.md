@@ -1,4 +1,4 @@
-# SQL-Fundamentals-Datacamp
+# SQL Fundamentals Datacamp
 
 Gain the fundamental SQL skills you need to interact with and query your data. SQL is a powerful language used by data-driven businesses, large and small, to explore and manipulate their data to extract meaningful insights. 
 
